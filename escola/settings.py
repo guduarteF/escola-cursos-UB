@@ -136,7 +136,16 @@ REST_FRAMEWORK = {
         'rest_framework.permissions.IsAuthenticatedOrReadOnly',
     ),
     'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
-    'PAGE_SIZE': 2
+    'PAGE_SIZE': 2,
+    # Throttling (limita a quantidade de request por usuario)
+    'DEFAULT_THROTTLE_CLASSES': (
+        'rest_framework.throttling.AnonRateThrottle',
+        'rest_framework.throttling.UserRateThrottle',
+    ),
+    'DEFAULT_THROTTLE_RATES': {
+        'anon': '2/minute', #second,day,month,year
+        'user': '3/minute'
+    }
 }
 
-# Token 9d23d7bda79d06971302cf23eb4ab32f3a550299
+# Token ee11c53d836f28c5bd7e4cafbf49c552847aa901
