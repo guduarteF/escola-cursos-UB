@@ -18,6 +18,7 @@ ACESSE : http://18.223.93.216:8000/api/v2/avaliacoes/
 - Relationship e Pagination
 - Autenticação via Token
 - Permissões e Throttling
+- PyTest
 - Deploy na AWS
 
 
