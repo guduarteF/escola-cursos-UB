@@ -2,7 +2,8 @@
 
 ## 📖  Descrição
 
-Projeto Backend de avaliações e cursos em Python utilizando o Django e API RESTFUL com deploy na AWS.
+Projeto Backend de avaliações e cursos em Python utilizando o Django e API RESTFUL com deploy na AWS. 
+Consultando com o Postman.
 
 ACESSE : http://18.223.93.216:8000/api/v2/avaliacoes/
 
@@ -30,6 +31,8 @@ ACESSE : http://18.223.93.216:8000/api/v2/avaliacoes/
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
+</div>
 </div>
 
 ## ⏳ Inicialização
