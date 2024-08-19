@@ -6,7 +6,14 @@ Projeto Backend de avaliações e cursos em Python utilizando o Django e API RES
 Consultando com o Postman.
 
 ACESSE : http://18.223.93.216:8000/api/v2/avaliacoes/
-
+<br/>
+### ENDPOINTS DISPONÍVEIS:
+// cursos requer autenticação
+<br/>
+- api/v2/cursos
+- api/v1/cursos
+- api/v2/avaliacoes
+- api/v1/avaliacoes
 <br/>
 
 ## :camera: Imagens 
