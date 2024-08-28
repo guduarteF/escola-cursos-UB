@@ -5,7 +5,6 @@
 Projeto Backend de avaliações e cursos em Python utilizando o Django e API RESTFUL com deploy na AWS. 
 Consultando com o Postman.
 
-ACESSE : http://18.223.93.216:8000/api/v2/avaliacoes/
 <br/>
 ### ENDPOINTS DISPONÍVEIS:
 // cursos requer autenticação
